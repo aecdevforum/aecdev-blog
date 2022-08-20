@@ -16,7 +16,7 @@ const Footer = ({ fullWidth }) => {
             © {BLOG.author} {from === y || !from ? y : `${from} - ${y}`}
           </p>
           <Image
-      src={"https://github.com/Sanket2004/AECDEV.github.io/blob/main/assets/images/logo.png?raw=true"}
+      src={'https://github.com/Sanket2004/AECDEV.github.io/blob/main/assets/images/logo.png?raw=true'}
       alt="Picture of the author"
       width="35px"
       height="30px"
