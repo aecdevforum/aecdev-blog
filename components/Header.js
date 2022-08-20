@@ -103,6 +103,7 @@ const Header = ({ navBarTitle, fullWidth }) => {
                     </radialGradient>
                   </defs>
                 </svg>
+                </div>
               </div>
             </a>
           </Link>
