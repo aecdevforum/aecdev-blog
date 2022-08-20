@@ -70,13 +70,19 @@ const Header = ({ navBarTitle, fullWidth }) => {
           <Link href="/">
             <a aria-label={BLOG.title}>
               <div className="h-6">
-                <svg
+                {/*<svg
                   width="24"
                   height="24"
                   viewBox="0 0 24 24"
                   fill="none"
                   xmlns="http://www.w3.org/2000/svg"
-                >
+                >*/}
+                 <Image
+                  src={"https://github.com/Sanket2004/AECDEV.github.io/blob/main/assets/images/logo.png?raw=true"}
+                  alt="Picture of the author"
+                  width="24px"
+                  height="18px"
+                  />
                   <rect
                     width="24"
                     height="24"
