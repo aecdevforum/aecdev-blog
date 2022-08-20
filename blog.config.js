@@ -2,7 +2,7 @@ const BLOG = {
   title: 'AECDEV FORUM BLOG',
   author: 'Team Aecdev',
   email: 'aecdevforum@gmail.com',
-  link: 'https://nobelium.vercel.app',
+  link: 'https://aecdev-blog.vercel.app/',
   description: 'The Official Blog Website of AECDEV Forum.',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
