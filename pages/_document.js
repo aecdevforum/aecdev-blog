@@ -42,6 +42,13 @@ class MyDocument extends Document {
                 type="font/woff2"
                 crossOrigin="anonymous"
               />
+                <link
+                rel="preload"
+                href="/fonts/Euclid Circular A Regular.ttf"
+                as="font"
+                type="font/ttf"
+                crossOrigin="anonymous"
+              />
               <link
                 rel="preload"
                 href="/fonts/IBMPlexSansVar-Italic.woff2"
