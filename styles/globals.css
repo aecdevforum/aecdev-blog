@@ -49,6 +49,7 @@
 html {
   --scrollbarBG: #ffffff00;
   --thumbBG: #b8b8b8;
+    font-family: 'Euclid Circular';
 }
 body::-webkit-scrollbar {
   width: 5px;
